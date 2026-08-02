@@ -1,0 +1,6 @@
+id,category_id,business_id,name,display_order,active,created_at,image
+1,C001,N001,Hamburguesas y Snacks,1,true,2026-07-29 05:14:15.255934,C001.png
+2,C002,N001,Elotes y Esquites,2,true,2026-07-29 05:14:15.255934,C002.png
+3,C003,N001,Antojos Dulces,3,true,2026-07-29 05:14:15.255934,C003.png
+4,C004,N001,Mini Hot Cakes y Waffles,4,true,2026-07-29 05:14:15.255934,C004.png
+5,C005,N001,Pasteles y Postres,5,true,2026-07-29 05:14:15.255934,C005.png

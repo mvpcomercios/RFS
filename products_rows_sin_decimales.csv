@@ -1,0 +1,52 @@
+id,product_id,business_id,category_id,name,description,price,image_name,notes,promotion,display_order,active,created_at,featured,available
+1,P001,N001,C001,Hamburguesa Res,Hamburguesa sencilla de res 100%.,90,N001_C001_P001.png,,False,1,True,2026-07-29 05:21:16.225571,False,True
+2,P002,N001,C001,Hamburguesa Pollo Tempura,Hamburguesa sencilla de pollo tempura.,90,N001_P002.png,,False,2,True,2026-07-29 05:21:16.225571,False,True
+3,P003,N001,C001,Hamburguesa Sirloin,Hamburguesa sencilla de sirloin.,105,N001_P003.png,,False,3,True,2026-07-29 05:21:16.225571,False,True
+4,P004,N001,C001,Hamburguesa Doble Res,Hamburguesa doble carne de res.,120,N001_P004.png,,False,4,True,2026-07-29 05:21:16.225571,False,True
+5,P005,N001,C001,Hamburguesa Doble Pollo,Hamburguesa doble pollo tempura.,120,N001_P005.png,,False,5,True,2026-07-29 05:21:16.225571,False,True
+6,P006,N001,C001,Hamburguesa Doble Sirloin,Hamburguesa doble de sirloin.,145,N001_P006.png,,False,6,True,2026-07-29 05:21:16.225571,False,True
+7,P007,N001,C001,Costillas BBQ,Incluye papas.,95,N001_P007.png,,False,7,True,2026-07-29 05:21:16.225571,False,True
+8,P008,N001,C001,Alitas,Incluye papas.,85,N001_P008.png,,False,8,True,2026-07-29 05:21:16.225571,False,True
+9,P009,N001,C001,Boneless,Incluye papas.,85,N001_P009.png,,False,9,True,2026-07-29 05:21:16.225571,False,True
+10,P010,N001,C001,Tenders,Incluye papas.,85,N001_P010.png,,False,10,True,2026-07-29 05:21:16.225571,False,True
+11,P011,N001,C001,Nuggets,Incluye papas.,65,N001_P011.png,,False,11,True,2026-07-29 05:21:16.225571,False,True
+12,P012,N001,C001,Palomitas de Pollo,Incluye papas.,65,N001_P012.png,,False,12,True,2026-07-29 05:21:16.225571,False,True
+13,P013,N001,C001,Dedos de Queso,Incluye papas.,65,N001_P013.png,,False,13,True,2026-07-29 05:21:16.225571,False,True
+14,P014,N001,C001,Mozzarella,Incluye papas.,65,N001_P014.png,,False,14,True,2026-07-29 05:21:16.225571,False,True
+15,P015,N001,C001,Banderillas,"Queso mozzarella, salchicha o combinadas.",65,N001_P015.png,,False,15,True,2026-07-29 05:21:16.225571,False,True
+16,P016,N001,C001,Papas a la Francesa,Porción chica.,55,N001_P016.png,,False,16,True,2026-07-29 05:21:16.225571,False,True
+17,P017,N001,C001,Papas a la Francesa Grande,Porción grande.,95,N001_P017.png,,False,17,True,2026-07-29 05:21:16.225571,False,True
+18,P018,N001,C001,Papas Gajo,Papas gajo.,65,N001_P018.png,,False,18,True,2026-07-29 05:21:16.225571,False,True
+19,P019,N001,C001,Nachos,Nachos preparados.,50,N001_P019.png,,False,19,True,2026-07-29 05:21:16.225571,False,True
+20,P020,N001,C001,Salchipapas,Salchipapas.,65,N001_P020.png,,False,20,True,2026-07-29 05:21:16.225571,False,True
+21,P021,N001,C001,Salchipulpos,Salchipulpos.,65,N001_P021.png,,False,21,True,2026-07-29 05:21:16.225571,False,True
+22,P022,N001,C001,Aros de Cebolla,Aros de cebolla.,65,N001_P022.png,,False,22,True,2026-07-29 05:21:16.225571,False,True
+23,P023,N001,C002,Elote Clásico,Elote preparado.,30,N001_P023.png,,False,1,True,2026-07-29 05:22:23.432763,False,True
+24,P024,N001,C002,Elote Empanizado,Elote empanizado.,40,N001_P024.png,,False,2,True,2026-07-29 05:22:23.432763,False,True
+25,P025,N001,C002,Esquite Chico,Vaso chico.,30,N001_P025.png,,False,3,True,2026-07-29 05:22:23.432763,False,True
+26,P026,N001,C002,Esquite Grande,Vaso grande.,50,N001_P026.png,,False,4,True,2026-07-29 05:22:23.432763,False,True
+27,P027,N001,C002,Maruchan con Esquites,Maruchan preparada con esquites.,60,N001_P027.png,,False,5,True,2026-07-29 05:22:23.432763,False,True
+28,P028,N001,C002,La Greñuda,Especialidad de la casa.,95,N001_P028.png,,False,6,True,2026-07-29 05:22:23.432763,False,True
+29,P029,N001,C002,Dori-Esquites,Doritos con esquites.,60,N001_P029.png,,False,7,True,2026-07-29 05:22:23.432763,False,True
+30,P030,N001,C002,Tosti-Esquites,Tostitos con esquites.,60,N001_P030.png,,False,8,True,2026-07-29 05:22:23.432763,False,True
+31,P031,N001,C002,Dorilocos,Dorilocos preparados.,60,N001_P031.png,,False,9,True,2026-07-29 05:22:23.432763,False,True
+32,P032,N001,C002,Chicharrón Preparado Chico,Chicharrón preparado.,35,N001_P032.png,,False,10,True,2026-07-29 05:22:23.432763,False,True
+33,P033,N001,C002,Chicharrón Preparado Grande,Chicharrón preparado grande.,60,N001_P033.png,,False,11,True,2026-07-29 05:22:23.432763,False,True
+34,P034,N001,C003,Crepa Dulce,"Incluye 1 relleno, 1 untable, 1 fruta y 1 topping.",75,N001_P034.png,,False,1,True,2026-07-29 05:23:16.18728,False,True
+35,P035,N001,C003,Malteada Vainilla,Malteada sabor vainilla.,60,N001_P035.png,,False,2,True,2026-07-29 05:23:16.18728,False,True
+36,P036,N001,C003,Malteada Chocolate,Malteada sabor chocolate.,60,N001_P036.png,,False,3,True,2026-07-29 05:23:16.18728,False,True
+37,P037,N001,C003,Malteada Fresa,Malteada sabor fresa.,60,N001_P037.png,,False,4,True,2026-07-29 05:23:16.18728,False,True
+38,P038,N001,C003,Soda Italiana Manzana Verde,Soda italiana sabor manzana verde.,60,N001_P038.png,,False,5,True,2026-07-29 05:23:16.18728,False,True
+39,P039,N001,C003,Soda Italiana Mango,Soda italiana sabor mango.,60,N001_P039.png,,False,6,True,2026-07-29 05:23:16.18728,False,True
+40,P040,N001,C003,Soda Italiana Blue Berry,Soda italiana sabor Blue Berry.,60,N001_P040.png,,False,7,True,2026-07-29 05:23:16.18728,False,True
+41,P041,N001,C004,Mini Hot Cakes,"Incluye 1 fruta, 1 untable y 1 topping.",75,N001_P041.png,,False,1,True,2026-07-29 05:23:56.838176,False,True
+42,P042,N001,C004,Mini Hot Cakes Especiales,Con ingredientes premium.,95,N001_P042.png,,False,2,True,2026-07-29 05:23:56.838176,False,True
+43,P043,N001,C004,Waffle Clásico,"Incluye 1 fruta, 1 untable y 1 topping.",85,N001_P043.png,,False,3,True,2026-07-29 05:23:56.838176,False,True
+44,P044,N001,C004,Waffle Especial,Con ingredientes premium.,105,N001_P044.png,,False,4,True,2026-07-29 05:23:56.838176,False,True
+45,P045,N001,C005,Pay de Queso,Rebanada de pay de queso.,55,N001_P045.png,,False,1,True,2026-07-29 05:24:39.432242,False,True
+46,P046,N001,C005,Chocoflán,Rebanada de chocoflán.,55,N001_P046.png,,False,2,True,2026-07-29 05:24:39.432242,False,True
+47,P047,N001,C005,Pastel Red Velvet,Rebanada de pastel Red Velvet.,60,N001_P047.png,,False,3,True,2026-07-29 05:24:39.432242,False,True
+48,P048,N001,C005,Pastel de Chocolate,Rebanada de pastel de chocolate.,60,N001_P048.png,,False,4,True,2026-07-29 05:24:39.432242,False,True
+49,P049,N001,C005,Pastel de Tres Leches,Rebanada de pastel de tres leches.,60,N001_P049.png,,False,5,True,2026-07-29 05:24:39.432242,False,True
+50,P050,N001,C005,Gelatina,Porción individual.,35,N001_P050.png,,False,6,True,2026-07-29 05:24:39.432242,False,True
+51,P051,N001,C005,Fresas con Crema,Porción individual.,65,N001_P051.png,,False,7,True,2026-07-29 05:24:39.432242,False,True

@@ -1,0 +1,2 @@
+id,store_id,name,description,phone,whatsapp,google_maps,facebook,instagram,tiktok,opening_time,closing_time,payment_methods,cover_image,active,created_at
+1,N001,Rangel Food Station,"Hamburguesas, hot dogs, alitas, elotes, esquites, waffles, hot cakes, postres, malteadas y bebidas.",5537188914,5537188914,https://maps.app.goo.gl/ia5X8Ud64bfJ2J3R6,,,,18:30:00,00:30:00,"Efectivo, Tarjeta y Transferencia",N001.png,true,2026-07-29 01:54:36.656404
